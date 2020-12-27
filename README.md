@@ -1,6 +1,8 @@
 # lidonggittt.github.io
 
-Hi, welcome to my homepage repository!
+Hi, this is my homepage repository!
+
+Welcome to the see my homepage by clicking [link1](https://lidonggittt.github.io/), [link2](http://dongli.ml/), or [link3](http://dongli.cf/)!
 
 <br>
 
