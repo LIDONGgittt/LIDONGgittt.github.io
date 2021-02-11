@@ -6,4 +6,4 @@ Welcome to the see my homepage by clicking [link1](http://dongli.ml/), [link2](h
 
 <br>
 
-*Thanks [Colorlib](https://colorlib.com/) for the HTML frame.*
+*Thanks [Colorlib](https://colorlib.com/) for the HTML module.*
